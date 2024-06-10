@@ -5,8 +5,8 @@ console.log(num2)
 let x= ++num1;
 // let x= num1++
 
-// num1++;
-// num2--;
+num1++;
+num2--;
 
 // let sum = --num1 + ++num2 + num1-- + num2++;
 // console.log(sum)

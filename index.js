@@ -38,21 +38,21 @@
 // console.log(num)
 
 
-num1 = 10
-{
-    let num1 = 20
-    num1 = 30  
-    console.log(num1)
-}
-console.log(num1)
-
-// const num2 = 10
+// num1 = 10
 // {
-//     const num2 = 20
-//     // num2 = 30  
-//     console.log(num2)
+//     let num1 = 20
+//     num1 = 30  
+//     console.log(num1)
 // }
-// console.log(num2)
+// console.log(num1)
+
+const num2 = 10
+{
+    const num2 = 20
+    // num2 = 30  
+    console.log(num2)
+}
+console.log(num2)
 
 // //let and const have globe or local scope it works in their bolck only
 // // var has global scope it works on both in the scope and out of the scope
